@@ -44,3 +44,15 @@ The system separates:
 3. Risk Register
 4. Audit Activity
 5. Executive Reporting Layer
+## GRC Relevance
+
+This project demonstrates core Governance, Risk & Compliance competencies:
+
+- Control framework modeling
+- Risk scoring methodology (Likelihood × Impact)
+- Audit-ready documentation structure
+- Separation of control design vs. operational status
+- Structured governance reporting
+- Cross-functional compliance visibility
+
+The structure mirrors real-world compliance programs aligned to SOC2/ISO-style control environments.
