@@ -29,3 +29,18 @@ It models:
 1. Run `schema.sql`
 2. Load `sample_data.sql`
 3. Execute queries from `analytics_queries.sql`
+## Governance Architecture
+
+This project models a structured governance system designed to support:
+- Multi-jurisdiction compliance tracking
+- Control framework alignment (SOC2-style structure)
+- Risk scoring and prioritization
+- Audit readiness reporting
+- Executive visibility into operational risk
+
+The system separates:
+1. Control Design
+2. Control Implementation Status
+3. Risk Register
+4. Audit Activity
+5. Executive Reporting Layer
