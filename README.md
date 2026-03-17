@@ -56,3 +56,18 @@ This project demonstrates core Governance, Risk & Compliance competencies:
 - Cross-functional compliance visibility
 
 The structure mirrors real-world compliance programs aligned to SOC2/ISO-style control environments.
+## Add This Section to BOTH READMEs:
+
+```markdown id="g9v2lc"
+## Portfolio Context
+
+These projects are part of a Governance & Risk Systems portfolio demonstrating:
+
+- Control framework design
+- Risk scoring methodologies
+- Audit-ready architecture
+- Scenario-based evaluation logic
+- Structured compliance reporting
+- Executive-level KPI modeling
+
+Together, they simulate how mature organizations operationalize governance, risk, and compliance functions using structured data systems.
